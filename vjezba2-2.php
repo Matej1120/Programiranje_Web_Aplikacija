@@ -1,6 +1,6 @@
 <?php
     $naslov="PHP dokument - vježba 1c";
-    $autor="Sven Vucetic";
+    $autor="Matej Znidaric";
     $link_href = "https://hr.wikipedia.org/wiki/PHP";
     $link_text = "Saznaj više o PHP-u";
     $link_zad = "vjezba2-1.php";
